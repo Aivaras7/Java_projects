@@ -1,7 +1,5 @@
 # Lithium Exchance app
-A very basic exchance application
-
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+A very basic exchgane application
 
 ### Requirements 🔧
 * Java version 8 or higher.
