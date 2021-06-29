@@ -1,10 +1,12 @@
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.Map.Entry;
 
 public class LithiumPricing { // This class is responsible for setting right prices for each Lithium grade
 	GenerateLithium lithium = new GenerateLithium();
 	HashMap<Integer, Double> PricesHmap = new HashMap<Integer, Double>();
+	private String x;
 
 	public void setPrice() { // Setting price accordingly for each grade using hashmap
 		lithium.generateSample();
@@ -29,8 +31,9 @@ public class LithiumPricing { // This class is responsible for setting right pri
 		Iterator it = PricesHmap.entrySet().iterator();
 		System.out.println("Grade" + "       " + "Price - £");
 		while (it.hasNext()) {
-			Map.Entry pairs = (Map.Entry) it.next();
-			System.out.println(pairs.getKey() + " = " + pairs.getValue());
+			Entry pairs = (Map.Entry) it.next();
+			x = pairs.getKey() + " = " + pairs.getValue();
+			System.out.println(x);
 		}
 	}
 
