@@ -4,9 +4,9 @@
 ### Tasks:
 
 - [x] Stage 2
-- [ ] Stage 3
-- [ ] Stage 4
-- [ ] Stage 5
+- [x] Stage 3
+- [x] Stage 4
+- [x] Stage 5
 
 ### You can view our documented meetings and the tasks we have completed for each stage:
 - [Stage 2](https://github.com/Aivaras7/Java_projects/tree/main/Yuconz/Project_documentation/Stage%202)
