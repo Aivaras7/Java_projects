@@ -3,7 +3,7 @@
 ##### [Application](https://github.com/Aivaras7/Java_projects/tree/main/Yuconz/source/28f-final)
 ### Tasks:
 
-- [ ] Stage 2
+- [x] Stage 2
 - [ ] Stage 3
 - [ ] Stage 4
 - [ ] Stage 5
