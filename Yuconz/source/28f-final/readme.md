@@ -1,4 +1,4 @@
-#Source code for the Yuconz group project
+## Source code for the Yuconz group project
 
 Software Engineering project where we practiced agile development, following use cases and communicating with the client to get the correct specification
 
